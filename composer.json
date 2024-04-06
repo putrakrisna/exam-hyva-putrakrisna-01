@@ -7,7 +7,7 @@
         }
     ],
     "description": "Exam Hyva",
-    "homepage": "https://github.com/putrakrisna/exam-hyva-putrakrisna-01.git",
+    "homepage": "https://github.com/putrakrisna/exam-hyva-putrakrisna-01",
     "keywords": [
         "magento",
         "magento2"
@@ -29,9 +29,12 @@
     },
     "autoload": {
         "files": [
-            "src/theme/registration.php"
+            "src/theme-frontend-swift-hyva/registration.php",
         ],
         "psr-4": {
         }
+    }
+    "require": {
+        "hyva-themes/magento2-default-theme": "*"
     }
 }
