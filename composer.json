@@ -33,7 +33,7 @@
     },
     "autoload": {
         "files": [
-            "src/theme-frontend-swift-hyva/registration.php",
+            "src/theme-frontend-swift-hyva/registration.php"
         ],
         "psr-4": {
         }
