@@ -37,7 +37,7 @@
         ],
         "psr-4": {
         }
-    }
+    },
     "require": {
         "hyva-themes/magento2-default-theme": "*"
     }
